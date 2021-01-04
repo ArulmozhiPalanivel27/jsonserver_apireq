@@ -1,0 +1,102 @@
+{
+     "users" : [
+     {
+     "firstname":"arul",
+     "lastname":"palanivel",
+     "id":"101",
+     "designaton":"UI Dev",
+     "payrate":"36000",
+     "address":"flat no:1"
+     },
+     
+     
+     {
+     "firstname":"chitu",
+     "lastname":"palanivel",
+     "id":"102",
+     "designaton":"java dev",
+     "payrate":"25000",
+     "address":"flat no:2"
+     },
+     
+     
+     
+     {
+     "firstname":"siva",
+     "lastname":"dfjdf",
+     "id":"103",
+     "designaton":"ui",
+     "payrate":"15000",
+     "address":"flat no:3"
+     },
+     
+     {
+     "firstname":"fdf",
+     "lastname":"dfdf",
+     "id":"104",
+     "designaton":"intern",
+     "payrate":"20015",
+     "address":"flat no:4"
+     },
+
+     {
+     "firstname":"fdfdf",
+     "lastname":"dfdf",
+     "id":"105",
+     "designaton":"ui",
+     "payrate":"62000",
+     "address":"flat no:5"
+     },
+     
+     {
+     "firstname":"dfdf",
+     "lastname":"fdff",
+     "id":"106",
+     "designaton":"ui react",
+     "payrate":"20005",
+     "address":"flat no:6"
+     },
+     
+     {
+     "firstname":"dff",
+     "lastname":"dfdfdf",
+     "id":"107",
+     "designaton":"backend",
+     "payrate":"20050",
+     "address":"flat no:7"
+     },
+     
+     
+     {
+     "firstname":"venu",
+     "lastname":"dfdf",
+     "id":"108",
+     "designaton":"backend",
+     "payrate":"20500",
+     "address":"flat no:8"
+     },
+
+     
+     {
+     "firstname":"priya",
+     "lastname":"ram",
+     "id":"109",
+     "designaton":"dev ops",
+     "payrate":"10000",
+     "address":"flat no:9"
+     },
+     
+     
+     {
+     "firstname":"anu",
+     "lastname":"ram",
+     "id":"110",
+     "designaton":"backend",
+     "payrate":"20000",
+     "address":"flat no:10"
+     }
+     ]
+     
+    
+     
+     }
